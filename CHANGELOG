@@ -1,0 +1,25 @@
+[ 11.0.3 ]
+
+ * Update settings.conf with changes from recent releases
+ * Update sources.list to include updates security path
+   (Debian bug: #969930)
+ * Store host entropy in urandom and systemd location
+   (Debian bug: #941301)
+
+[ 11.0.2 ]
+
+ * Use xdg-user-dir to specify Desktop path
+   (Debian bug: #959541)
+ * Enable displaymanager module (enables auto-login)
+   (Debian bug: #934503)
+ * Add initial framebuffer session (use 'calamares' in kernel command
+   line to boot straight to calamares)
+
+-- Jonathan Carter 2020-07-15
+
+[ 11.0.1 ]
+
+ * Add initial Debian testing branding
+ * Upgrade instances of 'buster' strings to 'bullseye', '10' to '11'.
+
+-- Jonathan Carter 2019-09-25
