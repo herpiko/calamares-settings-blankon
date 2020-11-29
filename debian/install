@@ -7,3 +7,4 @@ artwork/install-blankon.png usr/share/pixmaps
 conf/96_calamares-settings-blankon.gschema.override usr/share/glib-2.0/schemas
 conf/calamares-desktop-icon.desktop etc/xdg/autostart
 add-calamares-desktop-icon usr/bin
+install-blankon.desktop etc/xdg/autostart
