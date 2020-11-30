@@ -1,16 +1,11 @@
-calamares-settings-blankon (12.0.1-2) verbeek; urgency=medium
+calamares-settings-blankon (12.0.1-1blankon1) verbeek; urgency=medium
 
   * Autostart on boot
   * Minor fix
-
- -- Sofyan Sugianto <sofyanartem@gmail.com>  Mon, 30 Nov 2020 06:51:21 +0700
-
-calamares-settings-blankon (12.0.1-1) verbeek; urgency=medium
-
   * Add BlankOn branding
   * New fork from debian
-  
- -- Sofyan Sugianto <sofyanartem@gmail.com>  Sun, 29 Nov 2020 18:45:30 +0700
+
+ -- Sofyan Sugianto <sofyanartem@gmail.com>  Mon, 30 Nov 2020 06:51:21 +0700
 
 calamares-settings-debian (11.0.4-1) unstable; urgency=medium
 
